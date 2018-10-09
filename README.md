@@ -1,3 +1,19 @@
+#React-Weather-App
+
+An interactive location based weather app, which uses the user's location to forcast the weather for the week.
+
+using react and redux to create loaction based weather app
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
